@@ -1,3 +1,6 @@
+Submitted by Mike Hoyt
+My Code Editor is Visual Studio Code (VSC)
+
 Homework 2 - Dev Setup and Deployment
 This assignment is intented to help you set up your development environment for React. You will create a simple React App and deploy using one of the methods covered in lecture.
 
