@@ -38,6 +38,6 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 Submitting
 Edit this file (README.md) and complete the following:
 
-URL to live application: 
+URL to live application: https://prof-tejera.github.io/homework-2-mhoyt9363/
 What code editor are you using? Visual Studio Code (VSC)
 That is all!
